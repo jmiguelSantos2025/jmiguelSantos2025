@@ -26,7 +26,7 @@ Tenho forte interesse em **Desenvolvimento Mobile & Web, Inteligência Artificia
 
 *    **Desenvolvimento Mobile & Web** (React Native, React, TypeScript)
 *    **Visão Computacional, IA & IoT** (OpenCV, TensorFlow)
-*    **Engenharia de Back-end** (FastAPI, Python, SQL, ORMs, Supabase, Firebase)
+*    **Back-end** (FastAPI, Python, SQL, ORMs, Supabase, Firebase)
 *    **Trabalho em Equipe & Gestão Ágil de Projetos** (SCRUM, KANBAN)
 
 ---
