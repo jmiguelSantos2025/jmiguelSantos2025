@@ -65,5 +65,6 @@ Tenho forte interesse em **Desenvolvimento Mobile & Web, Inteligência Artificia
 [![Gmail](https://shields.io)](mailto:jmiguel2021nt@gmail.com)
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=jmiguelSantos2025&icon=0&color=0" alt="Contador de visitas" />
+  <img src="https://komarev.com" alt="Contador de visitas" />
 </p>
+
