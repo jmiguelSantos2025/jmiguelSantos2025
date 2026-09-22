@@ -1,6 +1,6 @@
-# Olá, eu sou o João Miguel! 👋
+# Olá, eu sou o João Miguel! 
 
-Trabalho como **Estagiário de TI na EST - UEA**, onde busco integrar inovação tecnológica a uma boa gestão de desenvolvimento. Sou um desenvolvedor de software focado em criar soluções eficientes que resolvem dores reais de clientes, alinhando especificações técnicas com a realidade do negócio. 
+Sou entusiasta da tecnologia e da inovação. Atualmente trabalho como **Estagiário de TI na EST - UEA**, onde busco integrar inovação a uma boa gestão de desenvolvimento e de tecnologia. Sou um desenvolvedor de software focado em criar soluções que resolvem dores reais de clientes, alinhando especificações técnicas com a realidade do negócio de cada cliente. 
 
 Tenho forte interesse em **Desenvolvimento Mobile & Web, Inteligência Artificial e Visão Computacional**.
 
@@ -14,24 +14,24 @@ Tenho forte interesse em **Desenvolvimento Mobile & Web, Inteligência Artificia
 
 ---
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
-*   💧 **[GreenDrop](https://github.com)**: Sistema de irrigação automatizado com controle inteligente por meio de identificação de gestos humanos via Visão Computacional.
-*   🍃 **[EcoBreath](https://github.com)**: Ecossistema focado no monitoramento de um dispositivo de captura de CO₂ e transformação em O₂, auxiliado por aplicações Mobile e Web desenvolvidas com React Native, JavaScript e TypeScript.
-*   ☀️ **[Solarize](https://github.com)**: Plataforma de gestão de contratos de energia solar construída com FastAPI, utilizando SQLAlchemy (ORM) e Alembic para controle estruturado e migrações de banco de dados.
+*    **[GreenDrop](https://github.com)**: Sistema de irrigação automatizado com controle inteligente por meio de identificação de gestos humanos via Visão Computacional.
+*    **[EcoBreath](https://github.com)**: Ecossistema focado no monitoramento de um dispositivo de captura de CO₂ e transformação em O₂, auxiliado por aplicações Mobile e Web desenvolvidas com React Native, JavaScript e TypeScript.
+*    **[Solarize](https://github.com)**: Plataforma de gestão de contratos de energia solar construída com FastAPI, utilizando SQLAlchemy (ORM) e Alembic para controle estruturado e migrações de banco de dados.
 
 ---
 
-## 🧠 Áreas de Interesse
+##  Áreas de Interesse
 
-*   📱 **Desenvolvimento Mobile & Web** (React Native, React, TypeScript, Next.js)
+*   📱 **Desenvolvimento Mobile & Web** (React Native, React, TypeScript)
 *   👁️ **Visão Computacional, IA & IoT** (OpenCV, TensorFlow)
 *   🐍 **Engenharia de Back-end** (FastAPI, Python, SQL, ORMs, Supabase, Firebase)
-*   👥 **Trabalho em Equipe & Gestão Ágil de Projetos**
+*   👥 **Trabalho em Equipe & Gestão Ágil de Projetos** (SCRUM, KANBAN)
 
 ---
 
-## 💻 Stacks Técnicas
+##  Stacks Técnicas
 
 ### Linguagens
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -60,7 +60,9 @@ Tenho forte interesse em **Desenvolvimento Mobile & Web, Inteligência Artificia
 
 ## 🌐 Redes Sociais & Contato
 
-[![LinkedIn](https://shields.io)](https://linkedin.com) [![Instagram](https://shields.io)](https://instagram.com/jm_santos_oficial) [![Gmail](https://shields.io)](mailto:jmiguel2021nt@gmail.com)
+[![LinkedIn](https://shields.io)](http://linkedin.com/in/joaomiguelsantos2025) 
+[![Instagram](https://shields.io)](https://instagram.com/jm_santos_oficial) 
+[![Gmail](https://shields.io)](mailto:jmiguel2021nt@gmail.com)
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=jmiguelSantos2025&icon=0&color=0" alt="Contador de visitas" />
