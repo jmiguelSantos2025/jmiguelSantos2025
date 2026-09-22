@@ -44,6 +44,12 @@ Tenho forte interesse em **Desenvolvimento Mobile & Web, Inteligência Artificia
 
 ---
 
+## Redes Sociais
+
+https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black
+
+---
+
 ## Estatísticas do GitHub
 
 <p align="center">
