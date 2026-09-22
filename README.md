@@ -60,11 +60,18 @@ Tenho forte interesse em **Desenvolvimento Mobile & Web, Inteligência Artificia
 
 ## 🌐 Redes Sociais & Contato
 
-[![LinkedIn](https://shields.io)](http://linkedin.com/in/joaomiguelsantos2025) 
-[![Instagram](https://shields.io)](https://instagram.com/jm_santos_oficial) 
-[![Gmail](https://shields.io)](mailto:jmiguel2021nt@gmail.com)
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com" target="_blank">
+  <img src="https://shields.io" alt="Instagram" />
+</a>
+<a href="mailto:jmiguel2021nt@gmail.com">
+  <img src="https://shields.io" alt="Gmail" />
+</a>
 
 <p align="right">
   <img src="https://komarev.com" alt="Contador de visitas" />
 </p>
+
 
