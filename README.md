@@ -24,10 +24,10 @@ Tenho forte interesse em **Desenvolvimento Mobile & Web, Inteligência Artificia
 
 ##  Áreas de Interesse
 
-*   📱 **Desenvolvimento Mobile & Web** (React Native, React, TypeScript)
-*   👁️ **Visão Computacional, IA & IoT** (OpenCV, TensorFlow)
-*   🐍 **Engenharia de Back-end** (FastAPI, Python, SQL, ORMs, Supabase, Firebase)
-*   👥 **Trabalho em Equipe & Gestão Ágil de Projetos** (SCRUM, KANBAN)
+*    **Desenvolvimento Mobile & Web** (React Native, React, TypeScript)
+*    **Visão Computacional, IA & IoT** (OpenCV, TensorFlow)
+*    **Engenharia de Back-end** (FastAPI, Python, SQL, ORMs, Supabase, Firebase)
+*    **Trabalho em Equipe & Gestão Ágil de Projetos** (SCRUM, KANBAN)
 
 ---
 
@@ -44,7 +44,7 @@ Tenho forte interesse em **Desenvolvimento Mobile & Web, Inteligência Artificia
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=jmiguelSantos2025&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150" />
