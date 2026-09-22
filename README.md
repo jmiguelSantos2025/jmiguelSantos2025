@@ -52,6 +52,7 @@ Tenho forte interesse em **Desenvolvimento Mobile & Web, Inteligência Artificia
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jmiguelSantos2025&theme=dark&hide_border=false" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=jmiguelSantos2025&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=jmiguelSantos2025&theme=dark&hide_border=false" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jmiguelSantos2025&theme=radical&no-frame=false&no-bg=true&margin-w=4" height="150" />
 </p>
+
