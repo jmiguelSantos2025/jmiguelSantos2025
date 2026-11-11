@@ -1,37 +1,39 @@
-# Olá, eu sou o João Miguel! 
+# Olá, eu sou o João Miguel! 👋
 
-Sou entusiasta da tecnologia e da inovação. Atualmente trabalho como **Estagiário de TI na EST - UEA**, onde busco integrar inovação a uma boa gestão de desenvolvimento e de tecnologia. Sou um desenvolvedor de software focado em criar soluções que resolvem dores reais de clientes, alinhando especificações técnicas com a realidade do negócio de cada cliente. 
+Sou entusiasta de tecnologia, Técnico em Informática e estou cursando Sistemas de Informação na Universidade do Estado do Amazonas (UEA) e Gestão de Tecnologia da Informação no Instituto CESAR.
 
-Tenho forte interesse em **Desenvolvimento Mobile & Web, Inteligência Artificial e Visão Computacional**.
+Tenho interesse em **Inteligência Artificial, Visão Computacional e Desenvolvimento Mobile**.
+
+📎 Saiba mais sobre mim no [LinkedIn](https://www.linkedin.com/in/joaomiguelsantos2025/).
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-*   **Bacharelado em Sistemas de Informação** *(Em andamento)* – Universidade do Estado do Amazonas (UEA)
-*   **Graduação em Gestão de Tecnologia da Informação** *(Em andamento)* – Instituto CESAR
-*   **Técnico em Informática** – Fundação Matias Machline (FMM)
+- **Bacharelado em Sistemas de Informação** *(em andamento)* – Universidade do Estado do Amazonas (UEA)
+- **Graduação em Gestão de Tecnologia da Informação** *(em andamento)* – Instituto CESAR
+- **Técnico em Informática** – Fundação Matias Machline (FMM)
 
 ---
 
-##  Projetos em Destaque
+## Projetos em Destaque
 
-*    **[GreenDrop](https://github.com)**: Sistema de irrigação automatizado com controle inteligente por meio de identificação de gestos humanos via Visão Computacional.
-*    **[EcoBreath](https://github.com)**: Ecossistema focado no monitoramento de um dispositivo de captura de CO₂ e transformação em O₂, auxiliado por aplicações Mobile e Web desenvolvidas com React Native, JavaScript e TypeScript.
-*    **[Solarize](https://github.com)**: Plataforma de gestão de contratos de energia solar construída com FastAPI, utilizando SQLAlchemy (ORM) e Alembic para controle estruturado e migrações de banco de dados.
-
----
-
-##  Áreas de Interesse
-
-*    **Desenvolvimento Mobile & Web** (React Native, React, TypeScript)
-*    **Visão Computacional, IA & IoT** (OpenCV, TensorFlow)
-*    **Back-end** (FastAPI, Python, SQL, ORMs, Supabase, Firebase)
-*    **Trabalho em Equipe & Gestão Ágil de Projetos** (SCRUM, KANBAN)
+- **[GreenDrop](https://github.com/jmiguelSantos2025/GreenDropApp)** — Sistema de irrigação automatizado com controle inteligente por meio de identificação de gestos humanos via Visão Computacional.
+- **[EcoBreath](https://github.com/jmiguelSantos2025/ecoBreath)** — Ecossistema de monitoramento de um dispositivo de captura de CO₂ e transformação em O₂, com aplicações Mobile e Web desenvolvidas em React Native, JavaScript e TypeScript.
+- **[Solarize](https://github.com/jmiguelSantos2025/solarise-backend)** — Plataforma de gestão de contratos de energia solar, construída com FastAPI, SQLAlchemy (ORM) e Alembic para migrações estruturadas de banco de dados.
 
 ---
 
-##  Stacks Técnicas
+## Áreas de Interesse
+
+- **Desenvolvimento Mobile & Web** (React Native, TypeScript)
+- **Visão Computacional, IA & IoT** (OpenCV, TensorFlow)
+- **Back-end** (FastAPI, Python, SQL, ORMs, Supabase, Firebase)
+- **Trabalho em Equipe & Gestão Ágil de Projetos** (Scrum, Kanban)
+
+---
+
+## 🛠️ Stacks Técnicas
 
 ### Linguagens
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -55,4 +57,3 @@ Tenho forte interesse em **Desenvolvimento Mobile & Web, Inteligência Artificia
   <img src="https://streak-stats.demolab.com/?user=jmiguelSantos2025&theme=dark&hide_border=false" height="150" />
   <img src="https://github-profile-trophy.vercel.app/?username=jmiguelSantos2025&theme=radical&no-frame=false&no-bg=true&margin-w=4" height="150" />
 </p>
-
